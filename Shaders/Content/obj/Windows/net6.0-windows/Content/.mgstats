@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Box.fbx","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/Box.xnb","ModelProcessor","ModelContent",20592,1501,0.1072644
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Bunny.FBX","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/Bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.2449549
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Shaders.fx","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/Shaders.xnb","EffectProcessor","CompiledEffectContent",7509,13528,0.2804001
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Sphere.fbx","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/Sphere.xnb","ModelProcessor","ModelContent",97856,93051,0.0076295
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Teapot.fbx","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/Teapot.xnb","ModelProcessor","ModelContent",353152,374811,0.0350338
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Torus.FBX","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0050189
+"C:/Users/himay/Documents/Github/Shaders/Shaders/Content/UI.spritefont","C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Content/UI.xnb","FontDescriptionProcessor","SpriteFontContent",2065,21535,0.0612908

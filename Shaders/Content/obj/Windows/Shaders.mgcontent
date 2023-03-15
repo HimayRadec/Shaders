@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/himay/Documents/Github/Shaders/Shaders/Content/Shaders.fx</SourceFile>
+  <SourceTime>2023-03-12T22:41:02.4171916-07:00</SourceTime>
+  <DestFile>C:/Users/himay/Documents/Github/Shaders/Shaders/Content/bin/Windows/Shaders.xnb</DestFile>
+  <DestTime>2023-03-15T15:37:51.1756227-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
